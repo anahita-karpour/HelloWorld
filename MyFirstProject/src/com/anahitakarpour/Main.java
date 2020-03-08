@@ -3,7 +3,7 @@ package com.anahitakarpour;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Outputs Hello World to the screen
         System.out.println("Hello World");
 	}
 
